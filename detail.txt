@@ -1,0 +1,6 @@
+screen:
+	
+	1) - login screen
+	2) - Image Categorization Screen
+	3) - Report Page
+	4) - Team Report Page
